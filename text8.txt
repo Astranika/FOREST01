@@ -1,17 +1,9 @@
 tarzan
 ne boitza
 moguchih vladuk
-22222222222222222
-<<<<<<< HEAD
+22222222222222222D
 NEPOVOLUTE
-=======
 SAMARA
->>>>>>> 95a9cfb4fe55720881ebf2f803b9f4dd166a27f5
-<<<<<<< HEAD
-
 DA VSE SRABOTALO
-
-=======
 MOOOOOO
-SARGAREZ
->>>>>>> caf1d79e150dd21f5c1a89ba5037775ff1c32965
+SARGAREZc
