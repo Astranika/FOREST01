@@ -10,4 +10,8 @@ SAMARA
 MOOOOOO
 SARGARES
 ELAFENOT
+<<<<<<< HEAD
 ELAFENOT
+=======
+2
+>>>>>>> e3a3728168a7eaf20ce56faea96f86ee9a73f6cd
